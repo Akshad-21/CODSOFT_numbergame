@@ -23,4 +23,5 @@ Built with Java and love for coding!
 
 Feel free to contribute to the project or customize it to suit your preferences. Enjoy the game!
 
-see the preview,how it works👀
+see the preview,how it works👀https://github.com/Akshad-21/CODSOFT_numbergame/assets/156450300/59f98c73-84a8-441f-a20f-9ac2ec6a9da3
+
